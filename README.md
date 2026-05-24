@@ -49,6 +49,22 @@ Currently learning more about backend development, databases, and system design.
 
 ---
 
+# 📊 GitHub Activity
+
+<p align="center">
+  <img 
+    height="180em"
+    src="https://my-stats-43gk.vercel.app/api?username=dawnfallz&show_icons=true&theme=tokyonight&border_radius=20&layout=compact" 
+  />
+
+  <img 
+    height="180em"
+    src="https://my-stats-43gk.vercel.app/api/top-langs?username=dawnfallz&layout=compact&theme=tokyonight&border_radius=20" 
+  />
+</p>
+
+---
+
 # 🚀 Current Focus
 
 - Building full stack apps
