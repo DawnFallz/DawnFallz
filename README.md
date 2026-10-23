@@ -1,8 +1,10 @@
-# Hey 👋
+# Hello There! 🫣👋
 
-I'm a full stack developer who likes building websites, APIs, bots, and random projects.
+I'm **DawnFallz**. I'm a *self-taught* full stack developer who likes building websites, APIs, bots, and random projects.
 
-Currently learning more about backend development, databases, and system design.
+I'm currently learning more about **backend development, databases, and system design**.
+
+Check out my portfolio website at: [DawnFallz Portfolio](https://dawnfallz.vercel.app)
 
 ---
 
